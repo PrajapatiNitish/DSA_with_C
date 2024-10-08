@@ -1,2 +1,2 @@
-# DSA_with_C-
-This class note code.
+# DSA_with_C++
+This is class note code.
